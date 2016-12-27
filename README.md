@@ -1,5 +1,9 @@
 # Machine Learning Projects:
 
+## Text Categorization with Naive Bayes
+- Two variants of Naive Bayes Algorithm
+- Smoothing
+
 ## k Nearest Neighbors
 - Evaluating Decision Trees (J48) using Weka
 - Reading Data Files
