@@ -1,5 +1,13 @@
 # Machine Learning Projects:
 
+## Artificial Neural Network Backpropagation
+- Backpropagation Algorithm
+- Performance with different Network structures
+
+## Perceptron Algorithm
+- Primal Perceptron with Margin
+- Kernel/Dual Perceptron with Margin
+
 ## Text Categorization with Naive Bayes
 - Two variants of Naive Bayes Algorithm
 - Smoothing
