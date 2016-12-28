@@ -3,7 +3,7 @@
 - Kernel/Dual Perceptron with Margin
 
 In this project, I have implemented the primal and dual/kernel versions of the perceptron algorithm and evaluate its performance on six datasets with different d and s. d is the parameter of polynomial kernel and s is the parameter of Radial Basis Function (RBF) kernel.
-<br>
+<br><br>
 Accuracy for datasets:
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>A</th><th>B</th><th>C</th><th>back</th><th>sonar</th><th>breast</th></tr></thead><tbody>
@@ -20,6 +20,6 @@ Accuracy for datasets:
  <tr><td>s = 5</td><td>80.70%</td><td>77.55%</td><td>76.0%</td><td>48.38%</td><td>90.0 %</td><td>95.17%</td></tr>
  <tr><td>s = 10</td><td>81.47%</td><td>74.90%</td><td>78.0%</td><td>48.38%</td><td>90.0 %</td><td>95.17%</td></tr>
 </tbody></table>
-<br>
+
 - The primal and dual version of algorithms with linear kernel are identical. You can see in the table that for all datasets the primal and dual version with linear kernel have the same accuracy.
 - For polynomial kernel, the accuracy is highest when d = 2 for A, B, C datasets and when d = 3 for back, sonar, breast datasets. And, as d increases, the accuracy decreases. For RBF kernel, the accuracy is generally highest when s = 1 or 2, but as s increases, sometimes accuracy increases and sometimes it decreases.
