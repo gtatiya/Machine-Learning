@@ -1,4 +1,4 @@
-# Artificial Neural Network Backpropagation
+# Artificial Neural Network with Backpropagation
 - Backpropagation Algorithm
 - Performance with different Network structures
 
